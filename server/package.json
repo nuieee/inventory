@@ -1,0 +1,25 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "System to track SB possessions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuieee/inventory.git"
+  },
+  "keywords": [
+    "inventory",
+    "IEEE",
+    "RAS",
+    "electronics"
+  ],
+  "author": "Gonçalo Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuieee/inventory/issues"
+  },
+  "homepage": "https://github.com/nuieee/inventory#readme"
+}
